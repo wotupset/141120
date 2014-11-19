@@ -52,9 +52,9 @@ NoteNum=63
 PreUtterance=
 Intensity=100
 Modulation=0
-PBS=-235;-10
-PBW=487,436
+PBS=-454;0
+PBW=467,397,278
 StartPoint=0
-PBY=-9.8,0
+PBY=-15.3,5.1,0
 Envelope=0,5,35,0,100,100,0,%,0,407,67
 [#TRACKEND]
